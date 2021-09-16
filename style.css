@@ -165,6 +165,9 @@ footer{
     .container{
         display: flex;
     }
+    .header-text>p{
+        font-size: 16px;
+    }
     aside{
         display: flex;
         flex-direction: column;
